@@ -1,0 +1,44 @@
+Category,Part,Supplier,Qty,Unit Cost (USD),Bulk Cost (USD) [5000 units]
+Microcontroller,ESP32-WROOM-32E,LCSC,1,3.98,2.89
+Capacitor,0.1uF,LCSC,1,0.02,0.01
+Capacitor,1uF,LCSC,3,0.02,0.01
+Capacitor,10uF,LCSC,4,0.04,0.03
+Capacitor,22uF,LCSC,9,0.1,0.08
+Capacitor,47uF,LCSC,1,0.15,0.1
+Capacitor,100uF,LCSC,1,0.5,0.3
+Capacitor,330uF,LCSC,1,0.9,0.65
+Resistor,100Ω,LCSC,1,0.01,0.002
+Resistor,330Ω,LCSC,2,0.01,0.002
+Resistor,470Ω,LCSC,2,0.01,0.002
+Resistor,1kΩ,LCSC,1,0.01,0.002
+Resistor,10kΩ,LCSC,3,0.01,0.002
+Resistor,20kΩ,LCSC,3,0.01,0.002
+Resistor,33kΩ,LCSC,1,0.01,0.002
+Resistor,43kΩ,LCSC,1,0.01,0.002
+Resistor,51kΩ,LCSC,1,0.01,0.002
+Resistor,100kΩ,LCSC,3,0.01,0.002
+Resistor,180kΩ,LCSC,1,0.01,0.002
+Inductor,2.2uH,TBD,1,,
+Connector,2-hole screw terminal,LCSC,1,0.04,0.02
+Connector,3-hole screw terminal,LCSC,1,0.05,0.03
+Connector,Barrel jack,LCSC,1,0.04,0.02
+MOSFET,AO341A,LCSC,1,0.02,0.01
+MOSFET,BSS138,LCSC,1,0.01,0.005
+Regulator,MIC2302WU,LCSC,1,0.35,0.25
+Regulator,AMS1117,LCSC,2,0.04,0.02
+IC,TPS2121RUXT,LCSC,1,1.2,1
+IC,IP2326,LCSC,2,0.45,0.35
+LED,NeoPixel strip (8 LEDs),LCSC,1,1.5,0.5
+Sensor,MAX98357,LCSC,1,1.44,0.6
+Sensor,SIM800L,LCSC,1,3.27,1.49
+Sensor,HC-SR501,LCSC,1,0.77,0.3
+Sensor,SEN0623,LCSC,1,35,21
+Sensor,INMP441,LCSC,1,2.6,1
+Sensor,VL53L1X,LCSC,1,2.98,1.78
+Mechanical,Enclosure,MS 3D Printing,1,11.94,5.5
+PCB,100x100 mm PCB,JLCPCB,1,5.37,2.5
+total,,,,67.07,36.375
+,,,,,
+all prices in USD,,,,,
+tax should also be considered,,,,,
+11/7/2026,,,,,
