@@ -17,7 +17,7 @@
 #include "driver/i2s.h"
 #include <NeoPixelBus.h>
 
-#/ Wake-up Pins
+// Wake-up Pins
 #include "driver/rtc_io.h"
 
 #define PIN_PIR        GPIO_NUM_34 // Active HIGH
