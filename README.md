@@ -14,8 +14,8 @@ Designed specifically to operate without the use of cameras, this system ensures
 ## System Hardware
 * **Microcontroller:** ESP32-S3
 * **Radar Sensor:** SEN0623 (60GHz mmWave)
-* **[Add Power Supply/Battery module here]**
-* **[Add Audio input/mic module here if separate from ESP32]**
+* **TPS21 IP2326 based BMS**
+* **A impedence matched INMP441 with 4ohm 3W speaker setup**
 
 ## Hardware Visuals
 
