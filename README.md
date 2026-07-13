@@ -20,10 +20,10 @@ Designed specifically to operate without the use of cameras, this system ensures
 ## Hardware Visuals
 
 ### Printed Enclosure
-![Fully Assembled 3D Printed Enclosure](path/to/your/enclosure_image.png)
+![Fully Assembled 3D Printed Enclosure](docs/images/enclosure_image.png)
 
 ### PCB Assembly
-![Soldered PCB Configuration](path/to/your/soldered_pcb_image.png)
+![Soldered PCB Configuration](docs/images/soldered_pcb_image.png)
 
 ## Repository Structure
 ```text
