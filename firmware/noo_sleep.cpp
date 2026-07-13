@@ -17,6 +17,15 @@
 #include "driver/i2s.h"
 #include <NeoPixelBus.h>
 
+#/ Wake-up Pins
+#include "driver/rtc_io.h"
+
+#define PIN_PIR        GPIO_NUM_34 // Active HIGH
+#define PIN_SIM_RING   GPIO_NUM_35 // Active LOW
+// !! -- update the code: sleep/ wake up based on PIR sensor and SIM800L ring detection -- !!
+// !! -- use SEN0623 MOSFET gate + otther EN pins and sleep signals for efficient power handling -- !!
+
+
 // --- PIN DEFS ---
 #define PIN_SIM_RING   GPIO_NUM_35 // Active LOW
 #define PIN_SIM_EN     GPIO_NUM_21 
